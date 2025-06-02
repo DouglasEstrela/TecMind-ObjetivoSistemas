@@ -39,16 +39,3 @@ O **NeuroFocus** é uma proposta de produto voltado à performance mental. Este 
 
 ---
 
-## 📁 Estrutura de Pastas
-
-```bash
-TecMind-ObjetivoSistemas/
-├── css/
-│   └── style.css
-├── gifs/
-│   ├── NeuroFocusMobile.gif
-│   └── NeuroFocusPc.gif
-├── images/
-├── index.html
-└── README.md
-
