@@ -15,7 +15,6 @@ O **NeuroFocus** é uma proposta de produto voltado à performance mental. Este 
 - Layout moderno e 100% responsivo
 - Estrutura simples e eficaz para exibição de produto
 - Seções separadas: introdução, benefícios e call to action
-- Animações visuais via GIFs para demonstrar a interface
 
 ---
 
